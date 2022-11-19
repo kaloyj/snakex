@@ -46,15 +46,15 @@
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^2.3.0",
     "fork-ts-checker-webpack-plugin": "^3.1.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^24.9.0",
     "prettier": "^1.19.1",
     "react-hot-loader": "^4.12.18",
-    "svg-inline-loader": "^0.8.0",
+    "svg-inline-loader": "^0.8.2",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.3",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
   "browserslist": [
